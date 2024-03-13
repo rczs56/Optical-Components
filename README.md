@@ -9,3 +9,8 @@ Our project focuses on designing and developing optical components that are esse
 In this repository you will find:
 1.  Designs for optical components: breadboards, lens holders, lens tubes and               more advanced components such as rotational and translational mounts.
 2.  Manufacturing Instructions: Guidelines and recommendations for manufacturing            optical components using different techniques and materials.
+# How to Contribute
+We welcome contributions from the community to further enhance and expand this repository. We encourage contributing by:
+1.  Providing feedback about the existing componenets.
+2.  Suggest more componenets to design and develop.
+3.  Suggest changes about the repository.
