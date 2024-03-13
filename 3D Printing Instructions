@@ -1,24 +1,25 @@
-Converting Solidworks Drawings to a 3D Printed Part
-1. Check the scale of the solidworks drawing, make sure the scale and the units are compatible with the specific 3D printer you are planning on using 
+# Converting SolidWorks Drawings to a 3D Printed Part
 
-2. Save the solidworks model in STL format. 
+1. **Check the scale of the SolidWorks drawing:** Ensure that the scale and units are compatible with the specific 3D printer you are planning to use.
 
-3. Export your model as an STL. Choose suitable units and resolution for your 3D printer 
+2. **Save the SolidWorks model in STL format:** Export your model as an STL file.
 
-4. Import STL file into a slicing software such as Ultimaker Cura 
+3. **Export your model as an STL:** Choose suitable units and resolution for your 3D printer.
 
-5. Adjust settings such as infill density, print speed, support structures 
+4. **Import STL file into slicing software:** Use slicing software such as Ultimaker Cura.
 
-6. Preview sliced model, make sure it looks correct 
+5. **Adjust settings:** Configure settings such as infill density, print speed, and support structures.
 
-7. Slice the model, which converts model into G-code (instructions for the 3D printer) 
+6. **Preview sliced model:** Ensure it looks correct before proceeding.
 
-8. Transfer G-code into 3D printer using a USB stick 
+7. **Slice the model:** Convert the model into G-code (instructions for the 3D printer).
 
-9. Pre-heat 3D printer 
+8. **Transfer G-code to 3D printer:** Use a USB stick to transfer the G-code.
 
-10. Load filament into 3D printer 
+9. **Pre-heat 3D printer:** Preheat the printer according to the material being used.
 
-11. Initiate the print job 
+10. **Load filament into 3D printer:** Ensure the filament is loaded correctly.
 
-12. Remove support structures and smooth rough surfaces on the final product after it has finished printing 
+11. **Initiate the print job:** Start the printing process.
+
+12. **Post-processing:** Remove support structures and smooth rough surfaces on the final product after printing.
