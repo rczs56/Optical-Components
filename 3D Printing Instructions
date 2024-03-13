@@ -1,0 +1,24 @@
+Converting Solidworks Drawings to a 3D Printed Part
+1. Check the scale of the solidworks drawing, make sure the scale and the units are compatible with the specific 3D printer you are planning on using 
+
+2. Save the solidworks model in STL format. 
+
+3. Export your model as an STL. Choose suitable units and resolution for your 3D printer 
+
+4. Import STL file into a slicing software such as Ultimaker Cura 
+
+5. Adjust settings such as infill density, print speed, support structures 
+
+6. Preview sliced model, make sure it looks correct 
+
+7. Slice the model, which converts model into G-code (instructions for the 3D printer) 
+
+8. Transfer G-code into 3D printer using a USB stick 
+
+9. Pre-heat 3D printer 
+
+10. Load filament into 3D printer 
+
+11. Initiate the print job 
+
+12. Remove support structures and smooth rough surfaces on the final product after it has finished printing 
